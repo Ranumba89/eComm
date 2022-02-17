@@ -1,0 +1,17 @@
+
+
+.recipeTile{
+    /* max-width: 49%; */
+    display: flex;
+    flex: 1;
+    min-height: 500px;
+    vertical-align: top;
+    padding-right: 30px;
+    /* justify-content: center; */
+}
+.recipeTile h2{
+    max-width: 300px;
+  text-align: center;
+  color: brown;
+  font-size: 35px;
+}

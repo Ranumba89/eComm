@@ -1,0 +1,39 @@
+
+
+[
+    {
+        "id":1,
+        "name":"Michael Jordan",
+        "image":"https://sportshub.cbsistatic.com/i/r/2020/05/06/7e66d92a-e0a1-47ac-8ff1-1e69d33735b1/thumbnail/770x433/983416b9877b6ae8a18601383f1f15f8/michael-jordan.jpg",
+        "package":[
+            {"video":"mTLSQqhFQ6M",
+                "detail": "Back down fade away"
+            }
+        ],
+        "era": "80s"
+    },
+    {
+        "id":2,
+        "name":"Kobe Bryant",
+        "image":"https://i0.wp.com/fullpresscoverage.com/wp-content/uploads/2020/01/101524695-457220551.jpg?zoom=2&resize=750%2C375&ssl=1",
+        "package":[
+            {
+                "video":"mxWxpe3Avfc",
+                "detail":"pump fake spin"
+            }
+        ],
+        "era":"90s"
+    },
+    {
+        "id":3,
+        "name":"Tracy Mcgrady",
+        "image":"https://cdn.vox-cdn.com/thumbor/sck4ouEf55cTdkQwyCD10_GokdA=/0x0:2384x3606/1820x1213/filters:focal(1010x722:1390x1102):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/49687135/717734.0.jpg",
+        "package":[
+            {
+                "video":"mWpUt69-ztY",
+                "detail":"swing hang dribble the fake cross pull up"
+            }
+        ],
+        "era":"00s"
+    }
+]
